@@ -1,6 +1,6 @@
 
 
-
+1
 
 # v2ray 部署在 openshift starter
 部署视频 https://youtu.be/gImm4CfAnRs 自行部署镜像！ 2018/09/26
